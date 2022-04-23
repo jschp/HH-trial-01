@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jschp/ethglobal/issues"
   },
-  "homepage": "https://github.com/jschp/ethglobal#readme"
+  "homepage": "https://github.com/jschp/ethglobal#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
 }
