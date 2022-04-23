@@ -1,0 +1,19 @@
+{
+  "name": "ethglobal",
+  "version": "1.0.0",
+  "description": "Testing, prototyping, learning and developing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschp/ethglobal.git"
+  },
+  "author": "Tony Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jschp/ethglobal/issues"
+  },
+  "homepage": "https://github.com/jschp/ethglobal#readme"
+}
